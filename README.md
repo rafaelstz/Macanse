@@ -1,6 +1,9 @@
 # Macanse
 A semi-flat fork of the Ubuntu Radiance theme.
 
+##Screenshot
+![Macanse Screenshot](https://cloud.githubusercontent.com/assets/610598/10615783/7b39256e-7740-11e5-8033-52800ad04739.png)
+
 ## Installation
 Download and copy the Macanse theme directory into `/usr/share/themes/` and activate it using **unity-tweak-tool**.
 
