@@ -11,3 +11,6 @@ A semi-flat fork of the Ubuntu Radiance theme.
 Download and copy the Macanse theme directory into `/usr/share/` and activate it using **unity-tweak-tool**.
 
 [![Macanse Ubuntu Flat Theme](https://apps.ubuntu.com/assets/images/scbutton-free-200px.png)](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/)
+
+## Aditional Information
+Icons (Fork [Cocoa](https://github.com/libredeb/cocoa-icon-theme))
