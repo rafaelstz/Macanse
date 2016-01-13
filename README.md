@@ -14,3 +14,7 @@ Download and copy the Macanse theme directory into `/usr/share/` and activate it
 
 ## Aditional Information
 Icons (Fork [Cocoa](https://github.com/libredeb/cocoa-icon-theme))
+
+## License
+
+MIT © [Rafael Corrêa Gomes](https://github.com/rafaelstz)
